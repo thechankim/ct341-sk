@@ -1,4 +1,10 @@
 /* type */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #0d0d0d;
+}
+
 h1 {
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
