@@ -2,6 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
+    font-weight: 300;
     color: #0d0d0d;
 }
 
@@ -19,12 +20,7 @@ h2 {
     color: blue
 }
 
-p, a {
-    font-family: 'Roboto';
-    font-size: 12px;
-    font-weight: 300;
-    color: #0f0f3d;
-}
+
 /* layout */
 
 
